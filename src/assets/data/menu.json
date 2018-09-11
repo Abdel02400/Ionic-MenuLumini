@@ -1,0 +1,118 @@
+[
+  {
+    "category":"Item 1",
+    "subs": [
+      {
+        "subcategory":"Content 1",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          }
+        ]
+      },
+      {
+        "subcategory":"Content 2",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          },
+          {
+            "manufacture":"Item 3"
+          },
+          {
+            "manufacture":"Item 4"
+          }
+        ]
+      },
+      {
+        "subcategory":"Content 3",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          },
+          {
+            "manufacture":"Item 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category":"Item 2",
+    "subs": [
+      {
+        "subcategory":"Content 1",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          }
+        ]
+      },
+      {
+        "subcategory":"Content 2",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          },
+          {
+            "manufacture":"Item 3"
+          },
+          {
+            "manufacture":"Item 4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category":"Item 3",
+    "subs": [
+      {
+        "subcategory":"Content 1",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          },
+          {
+            "manufacture":"Item 3"
+          },
+          {
+            "manufacture":"Item 4"
+          }
+        ]
+      },
+      {
+        "subcategory":"Content 2",
+        "manufactures": [
+          {
+            "manufacture":"Item 1"
+          },
+          {
+            "manufacture":"Item 2"
+          },
+          {
+            "manufacture":"Item 3"
+          }
+        ]
+      }
+    ]
+  }
+]
